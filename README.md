@@ -10,3 +10,4 @@
 * **Known Issues & Gotchas:**
   * **Timing Windows:** If inputs or macro triggers are spammed faster than the game's frame update or server response threshold during the memory sequence, steps can occasionally clip or de-sync from the crystal's actual state.
   * **Keybind Conflicts:** Ensure your directional arrow keys are not bound to critical movement actions that conflict while recording sequences on the fly.
+<img width="351" height="355" alt="image" src="https://github.com/user-attachments/assets/fa94dffe-0ee7-4a7b-b9a1-16a17cf2fbb1" />
