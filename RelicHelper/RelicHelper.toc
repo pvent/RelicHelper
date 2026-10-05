@@ -1,0 +1,7 @@
+## Interface: 20504
+## Title: RelicHelper
+## Notes: Automated sequence tracker for Ogri'la "The Relic's Emanation" daily quest.
+## Author: Clunker
+## Version: 1.0.0
+
+RelicHelper.lua
